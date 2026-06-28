@@ -1,5 +1,4 @@
 # Multi-Unit Converter
-# Beginner Friendly Python Project
 
 def length_converter():
     km = float(input("Enter kilometers: "))
